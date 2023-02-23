@@ -2,3 +2,4 @@ v1 çalışmalarım
 v2 kodlarım
 v3 mehmet kodları
 v5 
+v6 stash
